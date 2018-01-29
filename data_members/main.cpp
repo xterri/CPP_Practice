@@ -1,7 +1,4 @@
 //data members / instance variables
-//constructors and destructors
-    // constructor runs when class is instantiated 
-    // destructor runs when mem is deallocated
 #include "cat.hpp"
 
 int     main(void) {
